@@ -6,20 +6,20 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
+    title: "Frontline: New Revolution",
     cardImage: "assets/images/project-page/quiz.jpg",
-    description: "A quiz app built using basic react.",
+    description: "Pegue suas armas e prepare-se para conquistar o mundo! FRONTLINE é o TPS tático 6x6 INOVADOR da Wise Labs!",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://linktr.ee/wise_frontlinenr",
+    Githublink: "https://linktr.ee/wise_frontlinenr",
   },
   {
-    title: "Chess Engine",
+    title: "Rampage Rush",
     cardImage: "assets/images/project-page/chess.jpg",
-    description: "A chess engine for a popular game dev engine.",
+    description: "Descubra o futuro épico das danças com Jack ou May em sua jornada de autoconhecimento e ação!",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://linktr.ee/wise_rampagerush",
+    Githublink: "https://linktr.ee/wise_rampagerush",
   },
 ];
 
