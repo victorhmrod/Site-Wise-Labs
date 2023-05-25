@@ -401,8 +401,8 @@ body {
 }
 
 .button {
-  border: 1px solid rgb(231, 85, 109);
-  color: rgb(231, 85, 109);
+  border: 1px solid rgb(85, 160, 231);
+  color: rgb(85, 173, 231);
   outline: none;
   background-color: transparent;
   transition: 0.3s;
@@ -418,7 +418,7 @@ body {
 
 .button:hover,
 .button:focus {
-  background-color: rgb(231, 85, 109);
+  background-color: rgb(85, 153, 231);
   color: #fff;
   border-radius: 4px;
   box-shadow: -3px -3px 9px #ffffff73, 2px 2px 9px rgba(94, 104, 121, 0.288);
