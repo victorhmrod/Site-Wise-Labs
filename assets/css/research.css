@@ -38,7 +38,7 @@ html[light-mode="dark"] {
   --cite-col-txt: #fff;
   --cite-close: rgba(0, 0, 0, 0.192);
   --cite-hover: #fff;
-  --hover-link: rgb(236, 103, 125);
+  --hover-link: rgb(76, 187, 238);
   --shadow-col1: rgb(29, 28, 28);
   --shadow-col2: rgba(34, 34, 34, 0.459);
 }
@@ -53,7 +53,7 @@ html {
 /* color of research page heading*/
 
 .research_work {
-  color: #4e00bb;
+  color: #0080bb;
 }
 
 /*For Changing background color of body according to theme*/
