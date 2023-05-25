@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Frontline: New Revolution",
-    cardImage: "assets/images/project-page/quiz.jpg",
+    cardImage: "assets/images/project-page/chess.jpg",
     description: "Pegue suas armas e prepare-se para conquistar o mundo! FRONTLINE é o TPS tático 6x6 INOVADOR da Wise Labs!",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://linktr.ee/wise_frontlinenr",
@@ -15,7 +15,15 @@ const projects = [
   },
   {
     title: "Rampage Rush",
-    cardImage: "assets/images/project-page/chess.jpg",
+    cardImage: "assets/images/project-page/quiz.jpg",
+    description: "Descubra o futuro épico das danças com Jack ou May em sua jornada de autoconhecimento e ação!",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Previewlink: "https://linktr.ee/wise_rampagerush",
+    Githublink: "https://linktr.ee/wise_rampagerush",
+  },
+  {
+    title: "Dissociation: Through Reality",
+    cardImage: "assets/images/project-page/dissociation.jpg",
     description: "Descubra o futuro épico das danças com Jack ou May em sua jornada de autoconhecimento e ação!",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://linktr.ee/wise_rampagerush",
