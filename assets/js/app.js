@@ -139,9 +139,11 @@ let footer = $(`
                 <h6 class="display">Entrar em contato</h6>
               </div>
                 <form name="form1" action="https://formcarry.com/s/HRokGZ82FR" method="POST" accept-charset="UTF-8" >
-                  <input id="name" type="text" name="name" placeholder="Seu nome" required/>
-                  <input id="email" type="email" name="email" placeholder="Endereço de Email" required/>                  
-                  <textarea id="textArea" name="message" placeholder="Escreva sua mensagem" required></textarea>
+                    <input type="email" name="email"><!-- use this to reply visitors and prevent spam -->
+                    <input type="text" name="firstName">
+                    <input type="text" name="lastName">
+                    <input type="text" name="anotherInput">
+                    <input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
               
                   <div id="main">
                     <button id="lnch" type="button" value="Send" >Enviar</button>
