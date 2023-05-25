@@ -35,9 +35,9 @@ html[data-theme="light"] {
 
 html[data-theme="dark"] {
   --bg-mybtn: rgb(230, 109, 129);
-  --bg-nav: #6617cb;
-  --bg-nav-img: linear-gradient(315deg, #6617cb 0%, #882463 74%);
-  --bg-footer: linear-gradient(315deg, #6617cb 0%, #882463 74%);
+  --bg-nav: #17a1cb;
+  --bg-nav-img: linear-gradient(315deg, #17a1cb 0%, #882463 74%);
+  --bg-footer: linear-gradient(315deg, #17b6cb 0%, #882463 74%);
   --bg: #191919;
   --text: #ffffff;
   --text-color: #fff;
@@ -87,14 +87,14 @@ html[data-theme="dark"] {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #ca9eff;
+  background: #9ec8ff;
   
 }
 
 /* Custom Scrollbar for Mozilla Firefox*/
 html{
   overflow-y: visible;
-  scrollbar-color: #ca9eff #f1f1f1;
+  scrollbar-color: #9ed3ff #f1f1f1;
   scrollbar-width: auto;
 }
 
@@ -272,7 +272,7 @@ html {
 .dark_toggler:checked {
   background-image: url(https://i.postimg.cc/Hn0nstVK/Screenshot-2020-04-16-at-1-07-19-PM.png);
   transition: background-image 0.9s;
-  box-shadow: 0px 2px 5px 1px rgb(187, 134, 201);
+  box-shadow: 0px 2px 5px 1px rgb(134, 169, 201);
 }
 
 .dark_toggler:checked:before {
@@ -395,7 +395,7 @@ color: #ffffff !important;
       margin-right: auto;
       bottom: 0;
       width: 32%;
-      border-bottom: 3px solid #6a00bb;
+      border-bottom: 3px solid #008fbb;
   }
   
   .nav-item-hover::after {
@@ -406,7 +406,7 @@ color: #ffffff !important;
       height: 0.15em;
       bottom: 0;
       width: 0%;
-      background-color: #6a00bb;
+      background-color: #00b7ff;
       transition: all ease-in-out 280ms;
   }
   
