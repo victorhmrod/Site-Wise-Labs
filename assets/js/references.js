@@ -7,34 +7,34 @@ const referenceTable = document.querySelector(".pain");
 const references = [
   {
     sl1: 1,
-    name1 : "Smaranjit Ghose",
-        designation1 : "Product Manager, Microsoft",
-        image1 : "https://avatars.githubusercontent.com/u/46641503?v=4",
-        message1 : "John is a conscientious individual whom I mentored during JWOC'2021. His problem-solving skills and a keen interest in learning new skillsets are remarkable. His hardworking nature and team-building abilities make him different from others.",
+    name1 : "Filipe Deschamps",
+        designation1 : "Fundador/Programador Senior/Analisador de Dados, Filipe, Corp",
+        image1 : "https://filipedeschamps.github.io/images/filipe-deschamps-hires.jpg",
+        message1 : "Filipe Deschamps é um renomado empreendedor, desenvolvedor e educador brasileiro, conhecido principalmente por seu canal no YouTube. Seus vídeos educacionais sobre tecnologia são extremamente populares, graças à sua abordagem descontraída e didática. Além disso, Filipe é um empreendedor bem-sucedido, fundador de startups de tecnologia. Sua paixão pela programação e sua dedicação em compartilhar conhecimento fizeram dele uma figura influente na comunidade tecnológica do Brasil.",
         
 
         sl2:2,
-        name2 : "Anush Bhatia",
-        designation2 : "Senior Analyst, Capgemini", 
-        image2: "https://avatars.githubusercontent.com/u/40017559?v=4",
-        message2 : "John has the best grasping skills I have seen in a new developer. I got to know him through GSSOC'2021 when I mentored him, and he made an exceptional growth during the competition. He made some incredible contributions and has good experience with Open Source.",
+        name2 : "Wenes Soares",
+        designation2 : "Fundador/Programador Senior/Dono, Crie Seus Jogos", 
+        image2: "https://centraldecursosonline.com/wp-content/uploads/2020/11/Wenes-Soares.png",
+        message2 : "Wenes Soares é um desenvolvedor de jogos e criador do canal Crie Seus Jogos no YouTube. Com tutoriais e dicas, ele se tornou uma referência no desenvolvimento de jogos, inspirando outros a criarem seus próprios. Wenes continua aprimorando suas habilidades e deixando um legado valioso para a comunidade.",
         
         
     },
 
     {
         sl1:3,
-        name1 : "Aditya Jyoti Paul",
-        designation1 : "Technical Analyst, Amazon",
-        image1 : "https://media-exp1.licdn.com/dms/image/C5603AQGEV-kzawPxjw/profile-displayphoto-shrink_800_800/0/1588602102622?e=1651708800&v=beta&t=8nxhFoR-WB4OKVltyYaVjmRpig_kQcvFsoa-eLjJPBQ",
-        message1 : "John and I have worked on several projects. Apart from technical skills, he also has good soft skills. He has good experience with debugging and has excellent leadership qualities.",
+        name1 : "Steve Jobs",
+        designation1 : "Fundador/Programador Senior/Dono, Apple/Pixar/Atari",
+        image1 : "https://images.rtl.fr/~c/2000v2000/rtl/www/1073067-steve-jobs-lors-de-la-presentation-du-macbook-air-lors-d-une-keynote-en-2005-archives.jpg",
+        message1 : "Steve Jobs foi um visionário empresário e inventor americano, co-fundador da Apple. Ele revolucionou a indústria de tecnologia com produtos inovadores como o iMac, iPod, iPhone e iPad. Sua liderança exigente e perfeccionista transformou a Apple em uma das empresas mais valiosas do mundo. Jobs deixou um legado inspirador que continua a influenciar a indústria de tecnologia até hoje.",
         
 
         sl2:4,
-        name2 : "Arnab Dutta Purkayastha",
-        designation2 : "Data Scientist, Flipkart",
-        image2 : "https://avatars.githubusercontent.com/u/59832779?v=4",
-        message2 : "John and I worked together during a hackathon and the thing that surprised me the most about him was his knowledge of fundamentals. He offered sincere help to the team throughout the competition. He is an impressive problem solver who is able to address complex issues strategically and confidently.",
+        name2 : "Elon Musk",
+        designation2 : "Fundador/Dono, Space X/Tesla, INC/Neuralink/Paypal/Solar City/Twitter",
+        image2 : "https://conteudo.imguol.com.br/c/noticias/8c/2022/11/22/02mai2022---o-bilionario-elon-musk-no-met-gala-em-nova-york-1669125518979_v2_1x1.jpg",
+        message2 : "Elon Musk é um empreendedor sul-africano-americano, conhecido por fundar a SpaceX e a Tesla. Sua visão audaciosa e compromisso com a inovação o tornaram uma figura icônica na indústria de tecnologia. Musk continua a desafiar limites e buscar soluções para um futuro sustentável.",
   },
 ];
 
@@ -65,7 +65,7 @@ const fillData = () => {
                             <img src="${image1}" class="imgRes">
                         </span>
                     </div>
-                    <img src="https://img.icons8.com/fluency/48/000000/quote-left.png"/>
+                    <img src="https://media.discordapp.net/attachments/739132474092945468/1112742609685844048/quote-left.png"/>
                     <a href="#0" class="paperTitle"> ${name1} </a> 
                     <div> ${designation1} </div> <div class="rConferences">  
                         <div class="referenceY">${message1}</div>
@@ -81,7 +81,7 @@ const fillData = () => {
                                     <img src="${image2}" class="imgRes">
                                 </span>
                             </div>
-                            <img src="https://img.icons8.com/fluency/48/000000/quote-left.png"/>
+                            <img src="https://media.discordapp.net/attachments/739132474092945468/1112742609685844048/quote-left.png"/>
                             <a href="#0" class="paperTitle">${name2} </a> 
                             <div> ${designation2} </div> <div class="rConferences">
                                 <div class="referenceY">${message2}</div>
