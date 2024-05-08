@@ -10,7 +10,7 @@ const projects = [
     cardImage: "assets/images/project-page/chess.jpg",
     description: "Pegue suas armas e prepare-se para conquistar o mundo! FRONTLINE é o TPS tático 6x6 INOVADOR da Wise Labs!",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    reviewlink: "https://linktr.ee/wiselabs.inc",
+    reviewlink: "https://store.steampowered.com/app/1772220/Frontline_New_Revolution/",
     Githublink: "https://linktr.ee/wiselabs.inc",
   },
   {
