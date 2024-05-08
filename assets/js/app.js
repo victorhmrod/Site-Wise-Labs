@@ -26,10 +26,6 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Início</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projetos</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="techstack.html">Habilidades</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="event.html">Eventos</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="reference.html">Referências</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="policy.html">Política de Privacidade</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="https://hashnode.com/@wiselabsgameworks" target="_blank">Blogs</a></li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
    </li>

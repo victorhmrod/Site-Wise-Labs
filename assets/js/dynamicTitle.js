@@ -1,7 +1,7 @@
 window.onload = function () {
   const favicon = document.getElementById('favicon')
   const pageTitle = document.title
-  const attentionMessage = 'Volta, amiguinho'
+  const attentionMessage = 'Tem certeza que queria sair?'
 
   document.addEventListener('visibilitychange', function (e) {
     const isPageActive = !document.hidden

@@ -10,24 +10,16 @@ const projects = [
     cardImage: "assets/images/project-page/chess.jpg",
     description: "Pegue suas armas e prepare-se para conquistar o mundo! FRONTLINE é o TPS tático 6x6 INOVADOR da Wise Labs!",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://linktr.ee/wise_frontlinenr",
-    Githublink: "https://linktr.ee/wise_frontlinenr",
+    reviewlink: "https://linktr.ee/wiselabs.inc",
+    Githublink: "https://linktr.ee/wiselabs.inc",
   },
   {
     title: "Rampage Rush",
     cardImage: "assets/images/project-page/quiz.jpg",
     description: "Descubra o futuro épico das danças com Jack ou May em sua jornada de autoconhecimento e ação!",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://linktr.ee/wise_rampagerush",
-    Githublink: "https://linktr.ee/wise_rampagerush",
-  },
-  {
-    title: "Dissociation: Through Reality",
-    cardImage: "assets/images/project-page/dissociation.jpg",
-    description: "Descubra o futuro épico das danças com Jack ou May em sua jornada de autoconhecimento e ação!",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://linktr.ee/wise_rampagerush",
-    Githublink: "https://linktr.ee/wise_rampagerush",
+    Previewlink: "https://linktr.ee/wiselabs.inc",
+    Githublink: "https://linktr.ee/wiselabs.inc",
   },
 ];
 
@@ -35,7 +27,7 @@ const projects = [
 const showCards = () => {
   let output = "";
   projects.forEach(({ title, cardImage, Previewlink, Githublink }) => {
-    output += `       
+       output += `       
         <div class="column skill-card card" style="margin: 15px"data-aos="zoom-in-up" data-aos-easing="linear" data-aos-delay="300" data-aos-duration="600" >
           <div class="wrapper" style="background: url(${cardImage}) center / cover no-repeat;">
             <div class="header">

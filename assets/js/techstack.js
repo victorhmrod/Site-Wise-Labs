@@ -7,52 +7,27 @@ const techStack = [
   {
     langImage: "assets/images/techstack-page/html.png",
     langName: "HyperText Markup Language",
-    langDesc: "<li>The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser</li>",
+    langDesc: "<li>A HyperText Markup Language, ou HTML, é a linguagem de marcação padrão para documentos projetados para serem exibidos em um navegador da web.</li>",
   },
   {
     langImage: "assets/images/techstack-page/css.png",
     langName: "Cascading Style Sheets",
-    langDesc: "<li>Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML</li>",
-  },
-  {
-    langImage: "assets/images/techstack-page/javascript.png",
-    langName: "JavaScript",
-    langDesc: "<li>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS</li>",
-  },
-  {
-    langImage: "assets/images/techstack-page/node.png",
-    langName: "Node",
-    langDesc: "<li>Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser</li>",
+    langDesc: "<li>Cascading Style Sheets é uma linguagem de folha de estilo usada para descrever a apresentação de um documento escrito em uma linguagem de marcação como HTML</li>",
   },
   {
     langImage: "assets/images/techstack-page/python.png",
     langName: "Python",
-    langDesc: "<li>Python is an interpreted high-level general-purpose programming language</li>",
+    langDesc: "<li>Python é uma linguagem de programação interpretada de alto nível e de uso geral</li>",
   },
   {
     langImage: "assets/images/techstack-page/cpp.png",
     langName: "C++",
-    langDesc: "<li>C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes</li>",
+    langDesc: "<li>C++ é uma linguagem de programação de uso geral criada por Bjarne Stroustrup como uma extensão da linguagem de programação C, ou C com Classes. Nós o usamos principalmente para desenvolver nossos jogos!</li>",
   },
   {
     langImage: "assets/images/techstack-page/git.png",
     langName: "Git",
-    langDesc: "<li>Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</li>",
-  },
-  {
-    langImage: "assets/images/techstack-page/bootstrap.png",
-    langName: "Bootstrap",
-    langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
-  },
-  {
-    langImage: "assets/images/techstack-page/react.png",
-    langName: "React",
-    langDesc: "<li>React is a free and open-source front-end JavaScript library for building user interfaces based on UI components</li>",
-  },
-  {
-    langImage:"assets/images/techstack-page/c.png",
-    langName:"C",
-    langDesc:"<li>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
+    langDesc: "<li>Git é um software para rastrear alterações em qualquer conjunto de arquivos, geralmente usado para coordenar o trabalho entre programadores que desenvolvem código-fonte de forma colaborativa durante o desenvolvimento de software.</li>",
   },
 ];
 
