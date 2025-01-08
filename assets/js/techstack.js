@@ -7,27 +7,27 @@ const techStack = [
   {
     langImage: "assets/images/techstack-page/html.png",
     langName: "HyperText Markup Language",
-    langDesc: "<li>A HyperText Markup Language, ou HTML, é a linguagem de marcação padrão para documentos projetados para serem exibidos em um navegador da web.</li>",
+    langDesc: "<li>HyperText Markup Language, or HTML, is the standard markup language for documents designed to be displayed in a web browser.</li>",
   },
   {
     langImage: "assets/images/techstack-page/css.png",
     langName: "Cascading Style Sheets",
-    langDesc: "<li>Cascading Style Sheets é uma linguagem de folha de estilo usada para descrever a apresentação de um documento escrito em uma linguagem de marcação como HTML</li>",
+    langDesc: "<li>Cascading Style Sheets is a style sheet language used to describe the presentation of a document written in a markup language such as HTML.</li>",
   },
   {
     langImage: "assets/images/techstack-page/python.png",
     langName: "Python",
-    langDesc: "<li>Python é uma linguagem de programação interpretada de alto nível e de uso geral</li>",
+    langDesc: "<li>Python is a general-purpose, high-level interpreted programming language.</li>",
   },
   {
     langImage: "assets/images/techstack-page/cpp.png",
     langName: "C++",
-    langDesc: "<li>C++ é uma linguagem de programação de uso geral criada por Bjarne Stroustrup como uma extensão da linguagem de programação C, ou C com Classes. Nós o usamos principalmente para desenvolver nossos jogos!</li>",
+    langDesc: "<li>C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes. We mainly use it to develop our games!</li>",
   },
   {
     langImage: "assets/images/techstack-page/git.png",
     langName: "Git",
-    langDesc: "<li>Git é um software para rastrear alterações em qualquer conjunto de arquivos, geralmente usado para coordenar o trabalho entre programadores que desenvolvem código-fonte de forma colaborativa durante o desenvolvimento de software.</li>",
+    langDesc: "<li>Git is software for tracking changes to any set of files, often used to coordinate work between programmers who collaboratively develop source code during software development.</li>",
   },
 ];
 
