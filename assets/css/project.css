@@ -171,6 +171,11 @@ a:hover {
   right: 0;
 }
 
+.Description {
+  font-size: 15px;
+  height: 10px;
+}
+
 .card .menu-content::before,
 .card .menu-content::after {
   content: "";
@@ -209,7 +214,7 @@ a:hover {
 
 @media (min-width: 60rem) {
   .card .data {
-    height: 76%;
+    height: 65%;
   }
 }
 
@@ -226,7 +231,7 @@ a:hover {
 }
 
 .card .title {
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   margin-top: 0em;
   font-size: 0.65em;
 }
@@ -257,8 +262,8 @@ a:hover {
 
 @media (min-width: 60rem) {
   .card .title {
-    padding-bottom: 4rem;
-    font-size: 1.2em;
+    padding-bottom: -2rem;
+    font-size: 1em;
   }
 }
 
@@ -486,11 +491,11 @@ ul {
 
 @media only screen and (min-height: 768px) {
   .menu-content {
-    margin-top: -4.5rem;
+    margin-top: -1.5rem;
     margin-right: 20px;
   }
   .card .title-div {
-    padding-bottom: 6rem;
+    padding-bottom: 1rem;
     margin-bottom: 0px;
     font-size: 2rem;
   }
