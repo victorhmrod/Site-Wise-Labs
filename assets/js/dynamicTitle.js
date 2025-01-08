@@ -1,7 +1,7 @@
 window.onload = function () {
   const favicon = document.getElementById('favicon')
   const pageTitle = document.title
-  const attentionMessage = 'Tem certeza que queria sair?'
+  const attentionMessage = 'Wise Labs: Gameworks | Are you sure you wanted to leave?'
 
   document.addEventListener('visibilitychange', function (e) {
     const isPageActive = !document.hidden
