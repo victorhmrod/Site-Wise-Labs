@@ -9,7 +9,7 @@
     --atom-color-hex: #0d00ff;
     --atom-color-rgb: 217,217,217;
     --nucleus-size: calc(var(--atom-size) / 5);
-    --electron-color-hex: #36C5F0;
+    --electron-color-hex: #3668f0;
     --electron-size : calc(var(--atom-size) / 25);
     --electron-orbit-size : calc(var(--atom-size) / 2.5);
     --electron-speed : 1.2s;

@@ -8,19 +8,11 @@ const projects = [
   {
     title: "Frontline: New Revolution",
     cardImage: "assets/images/project-page/chess.jpg",
-    description: "Pegue suas armas e prepare-se para conquistar o mundo! FRONTLINE é o TPS tático 6x6 INOVADOR da Wise Labs!",
+    description: "Grab your weapons and get ready to conquer the world! FRONTLINE is the INNOVATIVE 6v6 tactical TPS from Wise Labs!",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     reviewlink: "https://store.steampowered.com/app/1772220/Frontline_New_Revolution/",
     Githublink: "https://linktr.ee/wiselabs.inc",
-  },
-  {
-    title: "Rampage Rush",
-    cardImage: "assets/images/project-page/quiz.jpg",
-    description: "Descubra o futuro épico das danças com Jack ou May em sua jornada de autoconhecimento e ação!",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://linktr.ee/wiselabs.inc",
-    Githublink: "https://linktr.ee/wiselabs.inc",
-  },
+  }
 ];
 
 // function for rendering project cards data
